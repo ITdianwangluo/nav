@@ -1,8 +1,9 @@
 ---
 
-- 分类法: 主页
+
+- 分类法：主页
   图标：fa-star
-  链接: 
+  链接：
     - title: AE 2020 CC安装包
       url: https:/trashbytes.net/dl/6cpcQj2Qd7Q5re3px2Mccw6DP5SOqmJ4_kenYfuLD9spac-xSMB7KDmY6tEouNnD4-HznCxKKD8W-AdWghz62sh99mIGbNc36VBELxuxU3_jl_kZ812_0tkVI1kzmLv5g0Zk?v=1774426415-2hHeVtjZ9g6ZDrY4YqSRq5SJ7kebfyyMiU%2F%2F%2FuB1psc%3D
       描述: 在线跨屏剪切文字
@@ -13,27 +14,27 @@
 
 - 分类法: 云服务平台
   图标：fa-cloud
-  链接: 
+  链接：
     - 标题: Github
-      url：https：//github.com/
+      url：https://github.com/
   
-- 分类法: 网络资源
+- 分类法： 网络资源
   图标：fa-download
-  列表: 
+  列表：
     - 术语： 软件
-      链接:
+      链接：
         - 标题: 果核剥壳
           地址： https://www.ghxi.com/
           描述: 互联网的净土。PC软件，手机软件，正版软件，破解软件
-    - 术语: 游戏
-      链接:
+    - 术语：游戏
+      链接：
         - 标题: 老男人游戏网
           地址： https://www.oldmantvg.net/
           描述: 仓储式主机资源站 精校 完整 极致 静待您的垂青
           
 - 分类: 影视影音
-  icon: fa-video-camera
-  list: 
+  图标：fa-video-camera
+  列表: 
     - term: 影视
       links:
         - title: 阿里小站
