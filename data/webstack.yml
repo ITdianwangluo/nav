@@ -1,6 +1,5 @@
 ---
 - taxonomy: Adobe全家桶 
-  links: 
     - title: AE_2020CC安装包
       url: https://trashbytes.net/dl/sm63o_VTA-6TtwKP2VoMjuPrqOSjPSb3xToheJnFdA5fkJUOOcmHaUpl5aM-QzZaoOagPFzbXlkYgn9u6N4B11zDUadNF9JCTSS7pSHmQY0L3MzRxy8EYP4V8_jaE8jrJTUH?v=1774433800-uGzuQOWZhoXLhe0c%2F07e8Rp3zrYUa10LA8MQVYJills%3D
     - title: 草料二维码
@@ -24,16 +23,16 @@
         - title: 果核剥壳
           url: https://www.ghxi.com/
           description: 互联网的净土。PC软件，手机软件，正版软件，破解软件
-    - term: 游戏
-      links:
-        - title: 老男人游戏网
-          url: https://www.oldmantvg.net/
-          description: 仓储式主机资源站 精校 完整 极致 静待您的垂青
+    - term: 游戏term: 游戏
+      链接：:
+        - 标题: 老男人游戏网title: 老男人游戏网
+          url: https://www.oldmantvg.net/: https://www.oldmantvg.net/
+          描述：仓储式主机资源站 精校 完整 极致 静待您的垂青: 仓储式主机资源站 精校 完整 极致 静待您的垂青
           
-- taxonomy: 影视影音
-  icon: fa-video-camera
-  list: 
-    - term: 影视
+- 分类: 影视影音taxonomy: 影视影音
+  图标：fa-video-camera: fa-video-camera
+  列表:: 
+    - term: 影视term: 影视
       links:
         - title: 阿里小站
           url: https://pan666.cn
