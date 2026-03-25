@@ -2,9 +2,8 @@
 - taxonomy: 主页
   icon: fa-star
   links: 
-    - title: 网络剪贴板
-      url: https://netcut.cn/
-      logo: images/logos/xxx.png
+    - title: AE 2020 CC安装包
+      url: https://trashbytes.net/dl/6cpcQj2Qd7Q5re3px2Mccw6DP5SOqmJ4_kenYfuLD9spac-xSMB7KDmY6tEouNnD4-HznCxKKD8W-AdWghz62sh99mIGbNc36VBELxuxU3_jl_kZ812_0tkVI1kzmLv5g0Zk?v=1774426415-2hHeVtjZ9g6ZDrY4YqSRq5SJ7kebfyyMiU%2F%2F%2FuB1psc%3D
       qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
       description: 在线跨屏剪切文字
     - title: 草料二维码
